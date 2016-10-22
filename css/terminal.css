@@ -12,8 +12,8 @@
 
 @media screen and (max-width: 1400px) {
     #laptop{
-        zoom: 0.8;
-        transform: translate(18% , -40%);
+        zoom: 0.75;
+        transform: translate(5% , -40%);
     }
 }
 
