@@ -9,6 +9,7 @@ $(document).ready(function() {
     $('#laptop').fadeOut(0);
     $('#info1').fadeOut(0);
     $('.Gio-98').fadeOut(0);
+    $('#popup-wrapper').fadeOut(0);
 
     $('#fullpage').fullpage({
         normalScrollElements: '.normal',
