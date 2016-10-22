@@ -8,8 +8,8 @@ html, body {
 }
 
 header {
-  height: calc(100vh - 65px);
-  margin-top: -130px;
+  height: calc(100vh - 52px);
+  margin-top: -104px;
   -webkit-perspective: 1500px;
   perspective: 1500px;
   perspective-origin: center bottom;
@@ -47,7 +47,7 @@ header {
 
 nav {
   background: transparent ;
-  height:65px;
+  height:52px;
   z-index: 100;
 }
 nav.fixed {
@@ -58,7 +58,7 @@ nav.fixed {
   background-color: rgb(4, 5, 25);
 }
 .sticky-wrapper {
-  height:65px;
+  height:52px;
 }
 nav ul {
   width:600px;
@@ -69,8 +69,14 @@ nav ul {
 }
 nav ul li {
   display:inline-block;
-  width: 100px;
+  width: 150px;
+  height: 52px;
 }
+
+nav ul li:hover {
+  background-color: rgba(74, 81, 255, 0.11);
+}
+
 nav ul a {
   color:#A1A1A1;
   font-size: 14px;
@@ -78,10 +84,12 @@ nav ul a {
   font-weight: 700;
   text-transform: uppercase;
   text-decoration:none;
+  height:52px;
+  margin-top: -5px;
 }
 
 .section {
-  padding:65px 0 0;
+  padding:52px 0 0;
   height: 100vh;
   width:100%;
   background: white;
@@ -108,7 +116,7 @@ nav ul a {
 
 /*------------------------------------------animated box---------------------------------------------*/
 .box {
-  top: calc(5vh + 64px);
+  top: calc(3vh + 64px);
   left: 6vh;
   height: 84vh;
   width: calc(100vw - 2 * 6vh);
@@ -418,7 +426,6 @@ body {
   width: 300px;
   height: 460px;
   position: relative;
-  /*background: rgb(74, 81, 255);*/
   background: rgba(74, 81, 255, 0.11);
   display: inline-block;
   margin: 0 10px;
@@ -428,6 +435,7 @@ body {
   transition: background 0.4s 0.5s;
   transform: translateY(-50%);
   padding:5%;
+  zoom: 0.8;
 }
 
 .infobox:hover {
@@ -707,7 +715,8 @@ body {
   position: absolute;
   top: 12vh;
   left: 50vw;
-  transform: translateX(-50%);
+  zoom: 0.8;
+  transform: translateX(-33%);
 }
 
 @media screen and (max-width: 1400px) {
@@ -732,4 +741,233 @@ body {
   /*background: #2800e5;*/
 }
 
+/*----------------------------------------------Dates--------------------------------------------------*/
+#dates{
+  background: transparent;
+}
 
+#content strong {
+  font-weight: 600;
+}
+#content h1 {
+  font-family: 'Oswald', sans-serif;
+  letter-spacing: 1.5px;
+  color: white;
+  font-weight: 100;
+  font-size: 4.0em;
+  margin-top: -5vh;
+  margin-bottom: 5vh;
+}
+#content {
+  text-align: center;
+}
+/* Timeline */
+.timeline {
+  border-left: 4px solid #4298c3;
+  border-bottom-right-radius: 4px;
+  border-top-right-radius: 4px;
+  background: rgba(255, 255, 255, 0.03);
+  color: rgba(255, 255, 255, 0.8);
+  font-family: 'Source Sans Pro', sans-serif;
+  margin: 30px auto;
+  letter-spacing: 0.5px;
+  position: relative;
+  line-height: 1.4em;
+  font-size: 1.03em;
+  padding: 50px;
+  list-style: none;
+  text-align: left;
+  font-weight: 100;
+  max-width: 30%;
+  zoom: 0.68;
+}
+
+#date-wrap{
+  max-height: 65vh;
+  overflow-y: scroll;
+}
+
+/*#date-wrap::-webkit-scrollbar {*/
+  /*width: 1em;*/
+/*}*/
+
+/*#date-wrap::-webkit-scrollbar-track {*/
+  /*-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0);*/
+/*}*/
+
+/*#date-wrap::-webkit-scrollbar-thumb {*/
+  /*background-color: darkgrey;*/
+/*}*/
+
+
+.timeline h1,
+.timeline h2,
+.timeline h3 {
+  font-family: 'Oswald', sans-serif;
+  letter-spacing: 1.5px;
+  font-weight: 100;
+  font-size: 1.4em;
+}
+.timeline .event {
+  border-bottom: 1px dashed rgba(255, 255, 255, 0.1);
+  padding-bottom: 25px;
+  margin-bottom: 50px;
+  position: relative;
+}
+.timeline .event:last-of-type {
+  padding-bottom: 0;
+  margin-bottom: 0;
+  border: none;
+}
+.timeline .event:before,
+.timeline .event:after {
+  position: absolute;
+  display: block;
+  top: 0;
+}
+.timeline .event:before {
+  left: -217.5px;
+  color: rgba(255, 255, 255, 0.4);
+  content: attr(data-date);
+  text-align: right;
+  font-weight: 100;
+  font-size: 0.9em;
+  min-width: 120px;
+}
+.timeline .event:after {
+  box-shadow: 0 0 0 4px #4298c3;
+  left: -57.85px;
+  background: #313534;
+  border-radius: 50%;
+  height: 11px;
+  width: 11px;
+  content: "";
+  top: 5px;
+}
+
+
+/*-------------------------------------------------------------------------------------------------------------*/
+
+
+#event-description{
+  background-color: transparent;
+}
+
+#event-description h1 {
+  text-align: center;
+  font-size: 80px !important;
+  font-size: 2.1875rem;
+  line-height: 1.8;
+  padding: 0;
+  color: #00a99d;
+  margin:0 ;
+}
+
+.accordion {
+  max-width: 60vw;
+  margin: 0 auto 50px;
+  border-top: 1px solid #d9e5e8;
+  background: rgba(4,5,25,0.51);
+  /*position: absolute;*/
+  /*left: 50%;*/
+  /*top:50vh;*/
+  /*transform: translateX(-50%);*/
+}
+.accordion li {
+  border-bottom: 1px solid #d9e5e8;
+  position: relative;
+}
+.accordion li p {
+  display: none;
+  padding: 10px 25px 10px;
+  color: white;
+  font-size:14px;
+}
+.accordion a {
+  width: 60vw;
+  display: block;
+  cursor: pointer;
+  font-weight: 600;
+  line-height: 3;
+  font-size: 14px;
+  font-size: 0.875rem;
+  text-indent: 15px;
+  user-select: none;
+  color: #00a99d; 
+}
+.accordion a:after {
+  width: 8px;
+  height: 8px;
+  border-right: 1px solid #4a6e78;
+  border-bottom: 1px solid #4a6e78;
+  position: absolute;
+  right: 10px;
+  content: " ";
+  top: 17px;
+  transform: rotate(-45deg);
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+.accordion p {
+  font-size: 13px;
+  font-size: 0.8125rem;
+  line-height: 2;
+  padding:0;
+}
+
+a.active:after {
+  transform: rotate(45deg);
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+
+#ps-para{
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  color: white;
+  width: 100vh;
+  font-weight: 400;
+  margin: 0 auto;
+  text-align: center;
+}
+#event-abs{
+  position: absolute;
+  left: 50%;
+  top:5vh;
+  transform: translateX(-50%);
+}
+
+
+#download-links {
+  width: 72vw;
+  margin:0 auto;
+}
+
+#download-links div{
+  display: inline-block;
+  border-radius:20px;
+  height:40px;
+  width:10vw;
+  padding:5px 10px;
+  border: 1px solid white;
+  margin:0 auto;
+}
+#download-links div:hover{
+  background: rgba(4,5,25,0.51);
+}
+
+#download-links div:hover a{
+  color: white;
+}
+
+#download-links a {
+  font-size: 20px;
+  margin: auto;
+  text-align: center;
+}
+
+footer{
+  zoom: 0.8;
+}

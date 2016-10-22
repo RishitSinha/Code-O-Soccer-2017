@@ -15,6 +15,8 @@ $(document).ready(function() {
         bigSectionsDestination: top,
         scrollingSpeed: 1000,
         scrollBar: true,
+        // scrollOverflow: true,
+        navigation: true,
 
         afterLoad: function(anchorLink, index){
             var loadedSection = $(this);
@@ -96,7 +98,7 @@ $(document).ready(function() {
 
     function navigateUp() {
         if (curPage === 1) {
-            $.fn.fullpage.moveTo(3);
+            $.fn.fullpage.moveTo(5);
             return;
         }
         curPage--;
