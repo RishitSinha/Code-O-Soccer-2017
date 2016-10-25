@@ -41,115 +41,116 @@ $(".hover").mouseleave(
 
 // ----------------------------------header----------------------------------------------------------
 
-particlesJS("particles-js", {
-    "particles": {
-        "number": {
-            "value": 120,
-            "density": {
-                "enable": true,
-                "value_area": 800
-            }
-        },
-        "color": {
-            "value": "#fff"
-        },
-        "shape": {
-            "type": "circle",
-            "stroke": {
-                "width": 0,
-                "color": "#71C3B9"
-            },
-            "polygon": {
-                "nb_sides": 5
-            }
-        },
-        "opacity": {
-            "value": 1,
-            "random": false,
-            "anim": {
-                "enable": false,
-                "speed": 1,
-                "opacity_min": 0.1,
-                "sync": false
-            }
-        },
-        "size": {
-            "value": 2,
-            "random": true,
-            "anim": {
-                "enable": false,
-                "speed": 80,
-                "size_min": 0.1,
-                "sync": false
-            }
-        },
-        "line_linked": {
-            "enable": true,
-            "distance": 130,
-            "color": "#fff",
-            "opacity": 0.4,
-            "width": 1
-        },
-        "move": {
-            "enable": true,
-            "speed": 12,
-            "direction": "none",
-            "random": false,
-            "straight": false,
-            "out_mode": "out",
-            "bounce": false,
-            "attract": {
-                "enable": false,
-                "rotateX": 600,
-                "rotateY": 1200
-            }
-        }
-    },
-    "interactivity": {
-        "detect_on": "canvas",
-        "events": {
-            "onhover": {
-                "enable": false,
-                "mode": "repulse"
-            },
-            "onclick": {
-                "enable": true,
-                "mode": "push"
-            },
-            "resize": true
-        },
-        "modes": {
-            "grab": {
-                "distance": 300,
-                "line_linked": {
-                    "opacity": 1
+$(window).load( function() {
+  particlesJS("particles-js", {
+        "particles": {
+            "number": {
+                "value": 120,
+                "density": {
+                    "enable": true,
+                    "value_area": 800
                 }
             },
-            "bubble": {
-                "distance": 200,
-                "size": 80,
-                "duration": 2,
-                "opacity": 0.8,
-                "speed": 3
+            "color": {
+                "value": "#fff"
             },
-            "repulse": {
-                "distance": 100,
-                "duration": 0.4
+            "shape": {
+                "type": "circle",
+                "stroke": {
+                    "width": 0,
+                    "color": "#71C3B9"
+                },
+                "polygon": {
+                    "nb_sides": 5
+                }
             },
-            "push": {
-                "particles_nb": 4
+            "opacity": {
+                "value": 1,
+                "random": false,
+                "anim": {
+                    "enable": false,
+                    "speed": 1,
+                    "opacity_min": 0.1,
+                    "sync": false
+                }
             },
-            "remove": {
-                "particles_nb": 2
+            "size": {
+                "value": 2,
+                "random": true,
+                "anim": {
+                    "enable": false,
+                    "speed": 80,
+                    "size_min": 0.1,
+                    "sync": false
+                }
+            },
+            "line_linked": {
+                "enable": true,
+                "distance": 130,
+                "color": "#fff",
+                "opacity": 0.4,
+                "width": 1
+            },
+            "move": {
+                "enable": true,
+                "speed": 12,
+                "direction": "none",
+                "random": false,
+                "straight": false,
+                "out_mode": "out",
+                "bounce": false,
+                "attract": {
+                    "enable": false,
+                    "rotateX": 600,
+                    "rotateY": 1200
+                }
             }
-        }
-    },
-    "retina_detect": true
-});
+        },
+        "interactivity": {
+            "detect_on": "canvas",
+            "events": {
+                "onhover": {
+                    "enable": false,
+                    "mode": "repulse"
+                },
+                "onclick": {
+                    "enable": true,
+                    "mode": "push"
+                },
+                "resize": true
+            },
+            "modes": {
+                "grab": {
+                    "distance": 300,
+                    "line_linked": {
+                        "opacity": 1
+                    }
+                },
+                "bubble": {
+                    "distance": 200,
+                    "size": 80,
+                    "duration": 2,
+                    "opacity": 0.8,
+                    "speed": 3
+                },
+                "repulse": {
+                    "distance": 100,
+                    "duration": 0.4
+                },
+                "push": {
+                    "particles_nb": 4
+                },
+                "remove": {
+                    "particles_nb": 2
+                }
+            }
+        },
+        "retina_detect": true
+    });
 
 // -----------------------------------------------------------------------------
 
-// -----------------------------Acordion----------------------------------
+// -----------------------------Accordion----------------------------------
 
 (function($) {
     $('.accordion > li:eq(0) a').addClass('active').next().slideDown();
@@ -175,15 +176,39 @@ particlesJS("particles-js", {
 // ------------------------------------------------------------------------------------
 
 
-
 $("#popup").click(function(event){
     event.stopPropagation();
 });
+
+// ------------------------------------------------------------------------------------------------------------------------------------
+$('.tabgroup > div').hide();
+$('.tabgroup > div:first-of-type').show();
+$('.tabs a').click(function(e){
+  e.preventDefault();
+    var $this = $(this),
+        tabgroup = '#'+$this.parents('.tabs').data('tabgroup'),
+        others = $this.closest('li').siblings().children('a'),
+        target = $this.attr('href');
+    others.removeClass('active');
+    $this.addClass('active');
+    $(tabgroup).children('div').hide();
+    $(target).show();
+  
+});
+// ------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ });
+
+
+
+
 
 
 
 
 function sign_up(){
+    $('.btn_sign').attr('name', 'btn-signup');
     var inputs = document.querySelectorAll('.input_form_sign');
     document.querySelectorAll('.ul_tabs > li')[0].className="";
     document.querySelectorAll('.ul_tabs > li')[1].className="active";
@@ -225,7 +250,7 @@ function sign_in(){
     var inputs = document.querySelectorAll('.input_form_sign');
     document.querySelectorAll('.ul_tabs > li')[0].className = "active";
     document.querySelectorAll('.ul_tabs > li')[1].className = "";
-
+    $('.btn_sign').attr('name', 'btn-login');
     for(var i = 0; i < inputs.length ; i++  ) {
         switch(i) {
             case 1:
@@ -292,5 +317,41 @@ function sign_in(){
 window.onload =function(){
     document.querySelector('.cont_centrar').className = "cont_centrar cent_active";
 };
+
+
+// -------------------------------------------------------------------------------------------------------------------
+
+function readURL(input) {
+  if (input.files && input.files[0]) {
+
+    var reader = new FileReader();
+
+    reader.onload = function(e) {
+      $('.image-upload-wrap').hide();
+
+      $('.file-upload-image').attr('src', e.target.result);
+      $('.file-upload-content').show();
+
+      $('.image-title').html(input.files[0].name);
+    };
+
+    reader.readAsDataURL(input.files[0]);
+
+  } else {
+    removeUpload();
+  }
+}
+
+function removeUpload() {
+  $('.file-upload-input').replaceWith($('.file-upload-input').clone());
+  $('.file-upload-content').hide();
+  $('.image-upload-wrap').show();
+}
+$('.image-upload-wrap').bind('dragover', function () {
+        $('.image-upload-wrap').addClass('image-dropping');
+    });
+    $('.image-upload-wrap').bind('dragleave', function () {
+        $('.image-upload-wrap').removeClass('image-dropping');
+});
 
 

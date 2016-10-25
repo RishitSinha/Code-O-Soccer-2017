@@ -1,0 +1,262 @@
+[24-Oct-2016 22:00:45 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 572
+[24-Oct-2016 22:00:45 Etc/GMT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/krssgzj9/public_html/codeosoccer/2017Beta/class.user.php on line 106
+[24-Oct-2016 22:02:13 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 572
+[24-Oct-2016 22:02:13 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 577
+[24-Oct-2016 22:02:59 Etc/GMT] PHP Fatal error:  Call to undefined function password_verify() in /home/krssgzj9/public_html/codeosoccer/2017Beta/class.user.php on line 75
+[24-Oct-2016 22:03:08 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 572
+[24-Oct-2016 22:03:08 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 577
+[24-Oct-2016 22:03:20 Etc/GMT] PHP Fatal error:  Call to undefined function password_verify() in /home/krssgzj9/public_html/codeosoccer/2017Beta/class.user.php on line 75
+[24-Oct-2016 22:03:33 Etc/GMT] PHP Fatal error:  Call to undefined function password_verify() in /home/krssgzj9/public_html/codeosoccer/2017Beta/class.user.php on line 75
+[24-Oct-2016 22:03:55 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 572
+[24-Oct-2016 22:03:55 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 577
+[24-Oct-2016 22:09:27 Etc/GMT] PHP Fatal error:  Call to undefined function password_verify() in /home/krssgzj9/public_html/codeosoccer/2017Beta/class.user.php on line 75
+[24-Oct-2016 22:11:46 Etc/GMT] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/krssgzj9/public_html/codeosoccer/2017Beta/class.user.php on line 70
+[24-Oct-2016 22:11:50 Etc/GMT] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/krssgzj9/public_html/codeosoccer/2017Beta/class.user.php on line 70
+[24-Oct-2016 22:11:52 Etc/GMT] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/krssgzj9/public_html/codeosoccer/2017Beta/class.user.php on line 70
+[24-Oct-2016 22:11:59 Etc/GMT] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/krssgzj9/public_html/codeosoccer/2017Beta/class.user.php on line 70
+[24-Oct-2016 22:12:19 Etc/GMT] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/krssgzj9/public_html/codeosoccer/2017Beta/class.user.php on line 70
+[24-Oct-2016 22:12:32 Etc/GMT] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/krssgzj9/public_html/codeosoccer/2017Beta/class.user.php on line 70
+[24-Oct-2016 22:12:56 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 572
+[24-Oct-2016 22:12:56 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 577
+[24-Oct-2016 22:13:15 Etc/GMT] PHP Fatal error:  Call to undefined function password_verify() in /home/krssgzj9/public_html/codeosoccer/2017Beta/class.user.php on line 77
+[24-Oct-2016 22:15:17 Etc/GMT] PHP Fatal error:  Call to undefined function password_verify() in /home/krssgzj9/public_html/codeosoccer/2017Beta/class.user.php on line 77
+[24-Oct-2016 22:15:21 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 572
+[24-Oct-2016 22:15:21 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 577
+[24-Oct-2016 22:15:38 Etc/GMT] PHP Fatal error:  Call to undefined function password_verify() in /home/krssgzj9/public_html/codeosoccer/2017Beta/class.user.php on line 77
+[24-Oct-2016 22:16:21 Etc/GMT] PHP Fatal error:  Call to undefined function password_verify() in /home/krssgzj9/public_html/codeosoccer/2017Beta/class.user.php on line 78
+[24-Oct-2016 22:17:47 Etc/GMT] PHP Fatal error:  Call to undefined function password_verify() in /home/krssgzj9/public_html/codeosoccer/2017Beta/class.user.php on line 79
+[24-Oct-2016 22:19:33 Etc/GMT] PHP Fatal error:  Call to undefined function password_verify() in /home/krssgzj9/public_html/codeosoccer/2017Beta/class.user.php on line 79
+[24-Oct-2016 22:19:35 Etc/GMT] PHP Fatal error:  Call to undefined function password_verify() in /home/krssgzj9/public_html/codeosoccer/2017Beta/class.user.php on line 79
+[24-Oct-2016 22:20:45 Etc/GMT] PHP Fatal error:  Call to undefined function password_verify() in /home/krssgzj9/public_html/codeosoccer/2017Beta/class.user.php on line 79
+[24-Oct-2016 22:20:47 Etc/GMT] PHP Fatal error:  Call to undefined function password_verify() in /home/krssgzj9/public_html/codeosoccer/2017Beta/class.user.php on line 79
+[24-Oct-2016 22:20:48 Etc/GMT] PHP Fatal error:  Call to undefined function password_verify() in /home/krssgzj9/public_html/codeosoccer/2017Beta/class.user.php on line 79
+[24-Oct-2016 22:21:14 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 572
+[24-Oct-2016 22:21:14 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 577
+[24-Oct-2016 22:23:56 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 572
+[24-Oct-2016 22:23:56 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 577
+[24-Oct-2016 22:24:14 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 572
+[24-Oct-2016 22:24:14 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 577
+[24-Oct-2016 22:24:15 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 572
+[24-Oct-2016 22:24:15 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 577
+[24-Oct-2016 22:24:35 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 572
+[24-Oct-2016 22:24:35 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 577
+[24-Oct-2016 22:25:00 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 572
+[24-Oct-2016 22:25:00 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 577
+[24-Oct-2016 22:25:57 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 572
+[24-Oct-2016 22:25:57 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 577
+[24-Oct-2016 22:26:09 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 572
+[24-Oct-2016 22:26:09 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 577
+[24-Oct-2016 22:26:23 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 572
+[24-Oct-2016 22:26:23 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 577
+[24-Oct-2016 22:27:21 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 572
+[24-Oct-2016 22:27:21 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 577
+[24-Oct-2016 22:27:41 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 203
+[24-Oct-2016 22:27:41 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 572
+[24-Oct-2016 22:27:41 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 577
+[24-Oct-2016 22:28:52 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 572
+[24-Oct-2016 22:28:52 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 577
+[24-Oct-2016 22:31:40 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 572
+[24-Oct-2016 22:31:40 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 577
+[24-Oct-2016 22:32:25 Etc/GMT] PHP Fatal error:  Call to undefined function password_hash() in /home/krssgzj9/public_html/codeosoccer/2017Beta/class.user.php on line 29
+[24-Oct-2016 22:33:46 Etc/GMT] PHP Fatal error:  Call to undefined function password_hash() in /home/krssgzj9/public_html/codeosoccer/2017Beta/class.user.php on line 29
+[24-Oct-2016 22:34:38 Etc/GMT] PHP Fatal error:  Call to undefined function password_hash() in /home/krssgzj9/public_html/codeosoccer/2017Beta/class.user.php on line 29
+[24-Oct-2016 22:34:40 Etc/GMT] PHP Fatal error:  Call to undefined function password_hash() in /home/krssgzj9/public_html/codeosoccer/2017Beta/class.user.php on line 29
+[24-Oct-2016 22:34:59 Etc/GMT] PHP Fatal error:  Call to undefined function password_hash() in /home/krssgzj9/public_html/codeosoccer/2017Beta/class.user.php on line 29
+[24-Oct-2016 22:35:13 Etc/GMT] PHP Fatal error:  Call to undefined function password_hash() in /home/krssgzj9/public_html/codeosoccer/2017Beta/class.user.php on line 29
+[24-Oct-2016 22:41:56 Etc/GMT] PHP Fatal error:  Call to undefined function password_hash() in /home/krssgzj9/public_html/codeosoccer/2017Beta/class.user.php on line 29
+[24-Oct-2016 22:42:01 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 572
+[24-Oct-2016 22:42:01 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 577
+[24-Oct-2016 22:42:12 Etc/GMT] PHP Fatal error:  Call to undefined function password_verify() in /home/krssgzj9/public_html/codeosoccer/2017Beta/class.user.php on line 82
+[24-Oct-2016 22:42:41 Etc/GMT] PHP Fatal error:  Call to undefined function password_verify() in /home/krssgzj9/public_html/codeosoccer/2017Beta/class.user.php on line 82
+[24-Oct-2016 22:59:09 Etc/GMT] PHP Fatal error:  Call to undefined function password_verify() in /home/krssgzj9/public_html/codeosoccer/2017Beta/class.user.php on line 82
+[24-Oct-2016 22:59:15 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 572
+[24-Oct-2016 22:59:15 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 577
+[24-Oct-2016 22:59:28 Etc/GMT] PHP Fatal error:  Call to undefined function password_verify() in /home/krssgzj9/public_html/codeosoccer/2017Beta/class.user.php on line 82
+[24-Oct-2016 23:00:04 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 572
+[24-Oct-2016 23:00:04 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 577
+[24-Oct-2016 23:00:43 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 572
+[24-Oct-2016 23:00:43 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 577
+[24-Oct-2016 23:00:43 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 572
+[24-Oct-2016 23:00:43 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 577
+[24-Oct-2016 23:01:42 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 203
+[24-Oct-2016 23:01:42 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 572
+[24-Oct-2016 23:01:42 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 577
+[24-Oct-2016 23:02:17 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 572
+[24-Oct-2016 23:02:17 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 577
+[25-Oct-2016 09:01:16 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 572
+[25-Oct-2016 09:01:16 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 577
+[25-Oct-2016 09:02:03 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 572
+[25-Oct-2016 09:02:03 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 577
+[25-Oct-2016 09:02:44 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 572
+[25-Oct-2016 09:02:44 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 577
+[25-Oct-2016 09:12:45 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 203
+[25-Oct-2016 09:12:45 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 572
+[25-Oct-2016 09:12:45 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 577
+[25-Oct-2016 09:12:57 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 572
+[25-Oct-2016 09:12:57 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 577
+[25-Oct-2016 11:51:21 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 565
+[25-Oct-2016 11:51:21 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 570
+[25-Oct-2016 12:05:40 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 565
+[25-Oct-2016 12:05:40 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 570
+[25-Oct-2016 12:06:18 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 565
+[25-Oct-2016 12:06:18 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 570
+[25-Oct-2016 12:07:10 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 565
+[25-Oct-2016 12:07:10 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 570
+[25-Oct-2016 12:07:14 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 565
+[25-Oct-2016 12:07:14 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 570
+[25-Oct-2016 12:07:35 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 12:07:35 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 12:07:57 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 12:07:57 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 12:08:02 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 12:08:02 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 12:09:26 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 12:09:26 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 12:18:10 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 12:18:10 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 12:26:02 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 12:26:02 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 12:28:31 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 12:28:31 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 12:28:33 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 12:28:33 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 12:28:34 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 12:28:34 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 12:28:35 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 12:28:35 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 12:29:16 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 12:29:16 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 12:29:18 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 12:29:18 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 12:29:20 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 12:29:20 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 12:29:22 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 12:29:22 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 12:30:10 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 12:30:10 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 12:30:42 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 12:30:42 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 12:30:45 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 12:30:45 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 12:31:31 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 12:31:31 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 12:31:45 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 12:31:45 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 12:33:23 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 12:33:23 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 12:35:47 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 12:35:47 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 12:37:05 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 197
+[25-Oct-2016 12:37:05 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 12:37:05 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 12:37:20 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 12:37:20 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 12:58:05 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 12:58:05 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 12:59:10 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 12:59:10 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 13:01:08 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 13:01:08 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 13:02:00 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 13:02:00 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 13:04:36 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 13:04:36 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 13:18:22 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 13:18:22 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 13:20:12 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 13:20:12 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 13:29:16 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 13:29:16 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 15:43:56 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 15:43:56 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 15:55:09 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 15:55:09 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 15:57:24 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 15:57:24 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 16:03:55 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 16:03:55 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 16:04:35 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 16:04:35 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 16:05:09 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 16:05:09 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 16:05:25 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 16:05:25 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 16:07:32 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 16:07:32 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 16:10:35 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 16:10:35 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 16:10:49 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 16:10:49 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 16:10:51 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 16:10:51 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 16:13:04 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 16:13:04 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 16:13:17 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 16:13:17 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 16:18:01 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 16:18:01 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 16:18:39 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 16:18:39 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 16:18:55 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 16:18:55 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 16:18:58 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 16:18:58 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 16:19:03 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 16:19:03 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 16:19:33 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 16:19:33 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 16:19:36 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 16:19:36 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 16:20:55 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 16:20:55 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 16:21:10 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 16:21:10 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 16:52:24 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 16:52:24 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 17:24:55 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 17:24:55 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 17:25:25 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 17:25:25 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 17:29:22 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 17:29:22 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 17:40:07 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 17:40:07 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 17:51:06 Etc/GMT] PHP Warning:  Invalid argument supplied for foreach() in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 197
+[25-Oct-2016 17:51:06 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 17:51:06 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 17:51:45 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 17:51:45 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 17:51:48 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 17:51:48 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 17:52:13 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 17:52:13 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 18:07:36 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 18:07:36 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 18:13:41 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 18:13:41 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 18:14:09 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 18:14:09 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 18:47:01 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 18:47:01 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 18:49:57 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 18:49:57 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 18:50:47 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 18:50:47 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 18:53:32 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 18:53:32 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 18:56:42 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 18:56:42 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 18:57:14 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 18:57:14 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 18:58:41 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 18:58:41 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 19:00:50 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 19:00:50 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 19:03:46 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 19:03:46 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 19:05:54 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 19:05:54 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 19:09:42 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 19:09:42 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
+[25-Oct-2016 19:09:55 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 566
+[25-Oct-2016 19:09:55 Etc/GMT] PHP Notice:  Undefined variable: tid in /home/krssgzj9/public_html/codeosoccer/2017Beta/index.php on line 571
